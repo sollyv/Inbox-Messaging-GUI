@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"view","l":"InboxFrame.event"},{"p":"controller","l":"InboxDAO"},{"p":"controller","l":"InboxDB"},{"p":"view","l":"InboxFrame"},{"p":"model","l":"Message"},{"p":"model","l":"MMS"}];updateSearchResults();
